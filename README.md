@@ -25,7 +25,7 @@ Result: Tresorit Drive vanishes from your sidebar.
 remove-tresorit.bat
 ```
 
-No restart needed. Explorer updates immediately.
+No restart needed. Close Explorer and reopen it.
 
 **Automate:**
 - Create a shortcut to `remove-tresorit.bat`
