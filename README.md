@@ -1,4 +1,4 @@
-# Remove Tresorit Drive from Windows 11 Explorer
+## Remove Tresorit Drive from the Windows 11 Explorer Navigation pane
 
 Tresorit Drive appears in the Explorer Navigation Pane and *cannot* be removed through Windows settings. 
 This script removes it by disabling the namespace tree entry in the registry.
