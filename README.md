@@ -61,4 +61,3 @@ Or restart Tresorit or Windows.
 ## License
 
 MIT
-```
