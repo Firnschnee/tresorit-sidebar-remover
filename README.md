@@ -8,6 +8,14 @@ This script removes it by disabling the namespace tree entry in the registry.
 The script sets `System.IsPinnedToNamespaceTree` to `0` for Tresorit's CLSID in `HKCU\Software\Classes\CLSID`.
 Result: Tresorit Drive vanishes from your sidebar.
 
+![Tresorit in Explorer](./screenshots/before.png)
+
+*Before: Tresorit Drive stuck in Navigation Pane*
+
+![Tresorit entfernt](./screenshots/after.png)
+
+*After: Tresorit Drive removed*
+
 **Important:** Tresorit re-registers itself every time it starts. If Tresorit restarts (process killed, app restarted, etc.), run the script again.
 
 ## Usage
