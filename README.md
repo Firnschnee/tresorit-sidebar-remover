@@ -32,6 +32,8 @@ No restart needed. Close Explorer and reopen it.
 - Move it to `%AppData%\Microsoft\Windows\Start Menu\Programs\Startup`
 - Script runs automatically after each boot
 
+> **v0.2.0:** Added a 10s delay, because after recent Tresorit updates the app took longer to start up and the script needed to be re-run manually after each boot.
+
 (If Tresorit restarts mid-session, just re-run manually or set up Task Scheduler for more granular control.)
 
 ## What you need
